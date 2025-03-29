@@ -238,6 +238,7 @@ dependencies:
   - psutil=5.9.0
   - ptyprocess=0.7.0
   - pure_eval=0.2.2
+  - pyaml=25.1.0
   - pycparser=2.21
   - pygments=2.15.1
   - pymc=5.21.1
@@ -276,6 +277,7 @@ dependencies:
   - rpds-py=0.22.3
   - scikit-image=0.25.0
   - scikit-learn=1.6.1
+  - scikit-optimize=0.10.2
   - scipy=1.15.1
   - seaborn=0.13.2
   - send2trash=1.8.2

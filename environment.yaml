@@ -100,6 +100,7 @@ dependencies:
   - intel-openmp=2023.1.0
   - ipykernel=6.29.5
   - ipython=8.30.0
+  - ipywidgets=8.1.5
   - jedi=0.19.2
   - jinja2=3.1.6
   - joblib=1.4.2
@@ -116,6 +117,7 @@ dependencies:
   - jupyterlab=4.3.4
   - jupyterlab_pygments=0.3.0
   - jupyterlab_server=2.27.3
+  - jupyterlab_widgets=3.0.13
   - kernel-headers_linux-64=3.10.0
   - kiwisolver=1.4.8
   - krb5=1.20.1
@@ -312,6 +314,7 @@ dependencies:
   - webencodings=0.5.1
   - websocket-client=1.8.0
   - wheel=0.45.1
+  - widgetsnbextension=4.0.13
   - xarray=2025.3.0
   - xarray-einstats=0.8.0
   - xcb-util-cursor=0.1.4
